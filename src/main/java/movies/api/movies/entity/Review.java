@@ -1,4 +1,4 @@
-package movies.api.movies;
+package movies.api.movies.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

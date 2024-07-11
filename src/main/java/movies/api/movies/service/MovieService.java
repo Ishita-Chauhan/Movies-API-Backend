@@ -1,7 +1,8 @@
-package movies.api.movies;
+package movies.api.movies.service;
 
 
-import org.bson.types.ObjectId;
+import movies.api.movies.entity.Movie;
+import movies.api.movies.repository.MovieRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
