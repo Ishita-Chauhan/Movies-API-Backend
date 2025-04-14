@@ -1,5 +1,5 @@
 package movies.api.movies.entity;
-//Importing
+//Importing dependencies 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
